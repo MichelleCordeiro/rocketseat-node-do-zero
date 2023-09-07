@@ -8,7 +8,7 @@
 
 <p>
   <code><a href='https://nodejs.org/en'><img height="38" alt="nodejs logo" src="https://i.postimg.cc/FsM4ywgC/pngwing-com.png"></a></code>
-  <code><a href='https://fastify.dev/'><img height="27" alt="fastify logo" src="https://i.postimg.cc/jdq3rSm8/fastify-icon-512x329.png"></a></code>
+  <code><a href='https://fastify.dev/'><img height="29" alt="fastify logo" src="https://i.postimg.cc/jdq3rSm8/fastify-icon-512x329.png"></a></code>
   <!-- <code><a href='https://knexjs.org'><img height="34" alt="knex logo" src="https://i.postimg.cc/L4G7wLYn/knex-logo-removebg-preview.png"></a></code> -->
   <code><a href='https://www.postgresql.org'><img height="33" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a></code>
   <code><a href='https://neon.tech/'><img height="33" alt="neon tech logo" src="https://i.postimg.cc/3JySwcrp/neon-tech.webp"/></a></code>
