@@ -9,17 +9,17 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos?search=node
-# GET http://localhost:3333/videos
+# GET http://localhost:3333/videos?search=node
+GET http://localhost:3333/videos
 
 ###
 
-PUT http://localhost:3333/videos/399fcb08-fe61-4fea-a69e-08de0a465bb2
+PUT http://localhost:3333/videos/39bd8cf1-da70-433c-b489-7b58a98b202c
 Content-Type: application/json
 
 {
-  "title": "VIDEO 0111111",
-  "description": "Esse é o primeiro video.",
+  "title": "Video 002",
+  "description": "Esse é o SEGUNDO video.",
   "duration": 180
 }
 
