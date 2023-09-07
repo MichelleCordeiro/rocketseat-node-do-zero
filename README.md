@@ -24,7 +24,8 @@
 Projeto desenvolvido na live NodeJS do Zero da [Rocketseat](https://www.rocketseat.com.br/).
 
  [Repositório](https://github.com/MichelleCordeiro/rocketseat-node-do-zero)
- <!-- [Deploy](https://service-filmsfans.onrender.com/v1/film-fans/check-live) -->
+ Deploy: https://node-do-zero-3msk.onrender.com/videos
+ Search for node video: https://node-do-zero-3msk.onrender.com/videos?search=node
 <br>
 
 <h3> 📝 Licença </h3>
